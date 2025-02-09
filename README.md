@@ -53,9 +53,6 @@ SmartWash/
 
 5. Open the app in your browser at `http://localhost:5173/`
 
-## 📸 Screenshots
-
-![SmartWash UI](https://via.placeholder.com/800x400)
 
 Happy washing! 🧼✨
 
